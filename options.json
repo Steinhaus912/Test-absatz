@@ -5,7 +5,12 @@
     "category-1": "{{{subitems}}}\n"
   },
   "rules": {
-    "order": []
+    "order": [
+      "Home.md",
+      "Instalation.md",
+      "Usage:-Tutorial-mode.md",
+       "Usage:-Init-mode.md"
+    ]
   },
   "separator": ":-",
   "linkTemplate": "https://github.com/adriantanasa/github-wiki-sidebar/wiki/%s",
