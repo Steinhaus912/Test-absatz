@@ -1,10 +1,12 @@
 ## v1.2.x
 
-* Customize order of items in the init/tutorial step by step mode
-* Add --git-push modifier to automatically push to git your _Sidebar
+* Customise order of items in the init/tutorial step by step mode
+* Support to black list pages to skip them from the menu
 
 ## Implemented
 
 ### v1.0.x
 
-TBD
+* Add --git-push modifier to automatically push to git your _Sidebar
+* init and tutorial mode for customising options
+* modifiers - execute on t
