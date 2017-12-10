@@ -7,7 +7,7 @@
   "rules": {
     "order": [
       "Home.md",
-      "Instalation.md",
+      "Installation.md",
       "Usage:-Tutorial-mode.md",
       "Usage:-Init-mode.md"
     ]
