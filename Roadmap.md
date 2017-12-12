@@ -10,4 +10,4 @@
 
 * Add --git-push modifier to automatically push to git your _Sidebar
 * init and tutorial mode for customising options
-* modifiers - execute on t
+* modifiers - allow to override default parameters from command line
