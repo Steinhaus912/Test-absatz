@@ -1,3 +1,7 @@
+* [Tutorial mode](https://github.com/adriantanasa/github-wiki-sidebar/wiki/Usage%3A-Tutorial-mode)
+* [Init mode](https://github.com/adriantanasa/github-wiki-sidebar/wiki/Usage%3A-Init-mode)
+* [Command line modifiers](https://github.com/adriantanasa/github-wiki-sidebar/wiki/Usage%3A-Command-line-modifiers)
+
 If installed globally and the npm bin path is in your $PATH variable just call the github-wiki-sidebar from within your local wiki folder:
 
 ```
