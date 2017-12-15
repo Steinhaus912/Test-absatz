@@ -1,4 +1,4 @@
-## v1.2.x
+## v1.1.x
 
 * Customise order of items in the init/tutorial step by step mode
 * Support to black list pages to skip them from the menu
