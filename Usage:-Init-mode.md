@@ -1,4 +1,4 @@
-# Options available in init/tutorial mode
+## Options available in init/tutorial mode
 
 **Customise the separator character(s) for multi-level menu:**
 
