@@ -1,6 +1,15 @@
-* [Tutorial mode](https://github.com/adriantanasa/github-wiki-sidebar/wiki/Usage%3A-Tutorial-mode)
-* [Init mode](https://github.com/adriantanasa/github-wiki-sidebar/wiki/Usage%3A-Init-mode)
-* [Command line modifiers](https://github.com/adriantanasa/github-wiki-sidebar/wiki/Usage%3A-Command-line-modifiers)
+## End-to-End Scenario
+
+**First time**
+* clone your local repository
+* execute init job to customise the order of items  and the template of sidebar menu (ex: add a logo)
+
+**Repeat**
+* execute the job with default options with automatic promotion to origin repository
+
+![Generate custom GitHub wiki sidebar with order and custom template](https://raw.githubusercontent.com/wiki/adriantanasa/github-wiki-sidebar/images/generating-github-wiki-sidebar-order-and-template.png)
+
+## Actions
 
 If installed globally and the npm bin path is in your $PATH variable just call the github-wiki-sidebar from within your local wiki folder:
 
