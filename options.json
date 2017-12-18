@@ -8,8 +8,8 @@
     "order": [
       "Home.md",
       "Installation.md",
-      "Roadmap.md",
-      "Usage:-Init-mode.md"
+      "Usage:-Init-mode.md",
+      "Usage:-Tutorial-mode.md"
     ]
   },
   "separator": ":-",
