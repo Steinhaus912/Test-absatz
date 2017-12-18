@@ -1,5 +1,9 @@
 # Init mode
 
+**Customise the separator character(s) for multi-level menu:**
 
-![Generate custom GitHub wiki sidebar with order and custom template](https://raw.githubusercontent.com/wiki/adriantanasa/github-wiki-sidebar/images/generating-github-wiki-sidebar-order-and-template.png)
+Change the sequence to break titles into categories (default to ": "). Users with Windows operating system have to chose a different separator for categories
 
+**Customize the internal links format: ./%s**
+
+You may prefer a full path route ex:  ```https://github.com/adriantanasa/github-wiki-sidebar/wiki/%s```
