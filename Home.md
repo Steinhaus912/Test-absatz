@@ -1,4 +1,6 @@
-Welcome to the [github-wiki-sidebar](https://www.npmjs.com/package/github-wiki-sidebar) wiki!
+[![npm module](https://rawgit.com/wiki/adriantanasa/github-wiki-sidebar/images/github-wiki-sidebar.svg)](https://www.npmjs.com/package/github-wiki-sidebar)
+
+Welcome to the github-wiki-sidebar wiki!
 
 _This wiki is an example of organising your github wiki navigation in order to be used with the npm github-wiki-sidebar module to automatically generate a beautified wiki menu. You can get rid of your huge README.md files by breaking them in a project wiki with multiple pages._
 
