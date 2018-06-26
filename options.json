@@ -5,11 +5,14 @@
     "category-1": "[![npm module](https://rawgit.com/wiki/adriantanasa/github-wiki-sidebar/images/github-wiki-sidebar.svg)](https://www.npmjs.com/package/github-wiki-sidebar)\n\n{{{subitems}}}\n"
   },
   "rules": {
+    "exclude": [
+      "Exclude-Page.md",
+      "Home.md"
+    ],
     "order": [
-      "Home.md",
       "Installation.md",
-      "Usage:-Init-mode.md",
-      "Usage:-Tutorial-mode.md"
+      "Usage:-Command-line-modifiers.md",
+      "Roadmap.md"
     ]
   },
   "separator": ":-",
