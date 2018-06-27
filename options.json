@@ -6,12 +6,11 @@
   },
   "rules": {
     "exclude": [
-      "Exclude-Page.md",
-      "Home.md"
+      "Exclude-Page.md"
     ],
     "order": [
       "Installation.md",
-      "Usage:-Command-line-modifiers.md",
+      "Home.md",
       "Roadmap.md"
     ]
   },
