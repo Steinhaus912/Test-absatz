@@ -6,7 +6,8 @@
   },
   "rules": {
     "exclude": [
-      "Exclude-Page.md"
+      "Exclude-Page.md",
+      "Home.md"
     ],
     "order": [
       "Installation.md",
