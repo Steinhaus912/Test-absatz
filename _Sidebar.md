@@ -1,9 +1,10 @@
 [![npm module](https://rawgit.com/wiki/adriantanasa/github-wiki-sidebar/images/github-wiki-sidebar.svg)](https://www.npmjs.com/package/github-wiki-sidebar)
 
   * [Installation](./Installation)
-  * [Home](./Home)
   * [Roadmap](./Roadmap)
   * [Examples](./Examples)
+  * [Exclude Page](./Exclude-Page)
+    * [Subpage](./Exclude-Page%3A-Subpage)
   * [Usage](./Usage)
     * [Command line modifiers](./Usage%3A-Command-line-modifiers)
     * [Default mode (enquire)](./Usage%3A-Default-mode-(enquire))
