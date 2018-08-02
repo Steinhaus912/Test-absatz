@@ -1,4 +1,4 @@
-([![npm module](https://rawgit.com/wiki/adriantanasa/github-wiki-sidebar/images/github-wiki-sidebar.svg)](https://www.npmjs.com/package/github-wiki-sidebar)
+[![npm module](https://rawgit.com/wiki/adriantanasa/github-wiki-sidebar/images/github-wiki-sidebar.svg)](https://www.npmjs.com/package/github-wiki-sidebar)
 
   * [Installation](./Installation)
   * [Roadmap](./Roadmap)
